@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import Dropdown from './Dropdown';
 import Convert from './Convert';
 
-// AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms-IwDlM
 const options = [
   {
     label: 'Afrikaans',
@@ -19,6 +18,10 @@ const options = [
   {
     label: 'Dutch',
     value: 'nl'
+  },
+  {
+    label: 'Korean',
+    value: 'ko'
   }
 ]
 
